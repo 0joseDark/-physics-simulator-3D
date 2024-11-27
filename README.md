@@ -1,5 +1,7 @@
 #  physics-simulator 3D
 # pip install physics-simulator pygame OpenGL
+# pip install ursina
+
 
 ### 3. **Estrutura do Código**  
 - **Janela OpenGL**: Criada com PyGame e configurada para renderizar um espaço 3D.
