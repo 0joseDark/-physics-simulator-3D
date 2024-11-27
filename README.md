@@ -1,2 +1,3 @@
-#  physics-simulator
-  physics-simulator 3D
+#  physics-simulator 3D
+# pip install physics-simulator pygame OpenGL
+
